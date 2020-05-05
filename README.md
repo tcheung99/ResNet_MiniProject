@@ -28,3 +28,4 @@ About [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz):
 
 Google drive links to logs files:
 *   [test_2_steps=10000](https://drive.google.com/drive/folders/1mFRgQPsh8C44Z1YlMq2MkNMxaBxw9jwc?usp=sharing)
+*   [test_3_steps=20000](https://drive.google.com/drive/folders/133I5Y6YUzWwuf1BsG81Myk_U4y-_Xjq1?usp=sharing)
