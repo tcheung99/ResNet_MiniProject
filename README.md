@@ -25,3 +25,6 @@ About [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz):
 *   Label Dimension = 10 (classes)
 *   60000 images total - 50000 training, 10000 testing 
 *   5 training batches, 1 test batch
+
+Google drive links to logs files:
+*   test_2_steps=10000: https://drive.google.com/drive/folders/1mFRgQPsh8C44Z1YlMq2MkNMxaBxw9jwc?usp=sharing
