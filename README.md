@@ -12,7 +12,7 @@ General design decisions:
 
 *   Full pre-activation residual block (see: [residual block variants](https://miro.medium.com/max/1400/1*M5NIelQC33eN6KjwZRccoQ.png))
 
-*   Perform 1x1 convolution insteaad of padding input (projection shortcut) for matching output size 
+*   Perform 1x1 convolution instead of padding input (projection shortcut) for matching output size 
 
 Formulation based on [paper](https://arxiv.org/abs/1512.03385): 
 *   1st layer is 3x3 convolutions 
